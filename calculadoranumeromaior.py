@@ -1,4 +1,4 @@
-
+# estudo de def/função.
 
 n1 = float(input("DIGITE O PRIMEIRO NUMERO: "))
 n2 = float(input("DIGITE O SEGUNDO NUMERO: "))
