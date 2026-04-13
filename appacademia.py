@@ -21,3 +21,4 @@ while True:
             
     elif opcao == "3":
         break
+# segunda versao do "aplicativo de academia"
