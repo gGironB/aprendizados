@@ -22,7 +22,7 @@ def mostrar_treino(treinos):
             print("Nenhum treino salvo!")
         else:
                for i, t in enumerate(treinos):
-                    print(f"{i+1} - Exercicio: {t[0]} / Reps: {[1]} / Peso: {[2]}")
+                    print(f"{i+1} - Exercicio: {t[0]} / Reps: {t[1]} / Peso: {t[2]}")
 
 while True:
     print("1 - Adicionar treino")
